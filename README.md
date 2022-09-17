@@ -8,4 +8,4 @@ For this exercise, you need to have conda.
 Once you have conda, you proceed to create an environment using the yml file.
 After that, you just need to activate it and execute the the demo.py script.
 
-<img src="screenshot.png" width="100%" />
+<img src="screenshot.PNG" width="100%" />
